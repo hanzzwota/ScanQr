@@ -1,0 +1,6 @@
+{
+  "name": "Barcode & QR Smart Market",
+  "description": "Sistem POS Kasir & Scanner Pintar premium dengan deteksi barcode AI, manajemen produk massal, kupon level member, dan sistem pembayaran QRIS otomatis.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
